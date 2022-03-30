@@ -1,0 +1,21 @@
+.box{
+  background-color: burlywood;
+  width: 100px;
+  height: 75px;
+}
+
+button{
+  background-color: cornflowerblue;
+  padding: 8px;
+  color:cornsilk;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: none;
+  border-radius: 10px!important;
+  border: none;
+  margin-right: 20px!important;
+}
+
+button:hover{
+  background-color: rgba(100, 148, 237, 0.527);
+  transform: scale(1.02);
+}
